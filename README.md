@@ -2,13 +2,13 @@
 
 ## I'm Mohamed Aimane - aka [medaimane](https://medaimane.github.io)
 
-## I'm a Software Engineer, Developer, Content Creator and Teacher!!
+## I'm a Software Engineer, Developer and Content Creator!!
 
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently working on building apps using react native
 - 🌱 I’m currently learning more about mobile dev and UI/UX
 - 👯 I’m looking to collaborate with other content creators
 - 📫 Feel free to reach to me through social media or by email
-- ⚡ Fun fact: I love relaxing/enjoying the sunset as it sets over the sea
+- ⚡ Fun fact: I love relaxing and enjoying the sunset as it sets over the sea
 
 ### Connect with me
 
