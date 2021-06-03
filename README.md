@@ -2,7 +2,7 @@
 
 ## I'm Mohamed Aimane - aka [medaimane](https://medaimane.github.io)
 
-## I'm a Mobile, FullStack Engineer and Content Creator!!
+## I'm a Mobile & Frontend Engineer & Content Creator!!
 
 - 🔭 I’m currently working on building apps using react native
 - 🌱 I’m currently learning more about mobile, frontend dev and UI/UX
