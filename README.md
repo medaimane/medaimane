@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 ## I'm Mohamed Aimane - aka [medaimane](https://medaimane.github.io)
 
