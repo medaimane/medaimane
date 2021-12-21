@@ -5,8 +5,8 @@
 ## I'm a Mobile & Frontend Engineer & Content Creator!!
 
 - 🔭 I’m currently working on building apps using react native
-- 🌱 I’m currently learning more about mobile, frontend dev and UI/UX
-- 👯 I’m looking to collaborate with other devs or content creators
+- 🌱 I’m currently learning more about mobile, frontend engineering and UI/UX
+- 👯 I’m looking to collaborate with other devs and content creators
 - 📫 Feel free to reach out to me through social media or by email
 - ⚡ Fun fact: I love relaxing and enjoying the sunset as it sets over the sea
 
