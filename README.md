@@ -4,7 +4,17 @@ Hi 👋 My name is Mohamed Aimane Skhairi
 Software Consultant | Senior React Native Engineer
 --------------------------------------------------
 
-I'm specializing in mobile and web development with vast expertise in working with international teams. 🥇 I have 4+ years of experience collaborating on building cross-platform applications mainly for iOS, Android, and Web that have empowered people and businesses across many domains and tech stacks. 👨‍💻 The journey consists of using APIs to create pixel-perfect and functional screens while assigning, following, and reviewing the work done by other members. 🎯 My strongest tech stack is the React Native and React ecosystem and I also have experience setting up CI/CD pipelines to automate the build and deployment process for web and mobile apps. 🧩 I make sure to apply advanced software development principles like Clean Code, Clean Architecture, Test-Driven Development, and Design Patterns to improve in all aspects. 🚀 Delivering elegant solutions and highly modular, scalable, clean, and well-tested code is always the goal. Let’s build something amazing. Connect & Let’s Work Together! 🎉
+I'm specializing in mobile and web development with vast expertise in working with international teams. 
+
+🥇 I have 4+ years of experience collaborating on building cross-platform applications mainly for iOS, Android, and Web that have empowered people and businesses across many domains and tech stacks. 
+👨‍💻 The journey consists of using APIs to create pixel-perfect and functional screens while assigning, following, and reviewing the work done by other members.
+
+🎯 My strongest tech stack is the React Native and React ecosystem and I also have experience setting up CI/CD pipelines to automate the build and deployment process for web and mobile apps.
+🧩 I make sure to apply advanced software development principles like Clean Code, Clean Architecture, Test-Driven Development, and Design Patterns to improve in all aspects.
+
+🚀 Delivering elegant solutions and highly modular, scalable, clean, and well-tested code is always the goal. 
+
+Let’s build something amazing. Connect & Let’s Work Together! 🎉
 
 * 🌍  I'm based in Tétouan, Morocco
 * ✉️  You can contact me at [skhairimedaimane@gmail.com](mailto:skhairimedaimane@gmail.com)
