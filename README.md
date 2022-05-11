@@ -15,9 +15,9 @@ Let’s build something amazing. Connect & Let’s Work Together! 🎉
 
 * 🌍  I'm based in Tétouan, Morocco
 * ✉️  You can contact me at [skhairimedaimane@gmail.com](mailto:skhairimedaimane@gmail.com)
-* 🧠  I'm learning Web3 technologies stack
-* 🤝  I'm open to collaborating on Open-source projects
-* ⚡  Chill and Code, Love nature and relaxing in front of the sea...
+* 🧠  I'm learning the blockchain technologies and its implementation
+* 🤝  I'm open to collaborating on open-source projects as well as building new ideas
+* ⚡  Chill and Code is somehow the lifestyle, I love nature and relaxing in front of the sea...
 
 <a href="https://www.twitter.com/med_aimane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/med_aimane?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
