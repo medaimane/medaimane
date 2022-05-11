@@ -1,6 +1,3 @@
-Hi 👋 My name is Mohamed Aimane Skhairi
-=======================================
-
 Software Consultant | Senior React Native Engineer
 --------------------------------------------------
 
