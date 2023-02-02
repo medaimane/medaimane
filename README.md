@@ -56,9 +56,6 @@ src="https://img.shields.io/github/followers/medaimane?logo=github&style=for-the
 ### Socials
 
 <p align="left">
-  <a href="https://www.upwork.com/freelancers/medaimane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/upwork.svg" width="32" height="32" />
-  </a>
   <a href="https://www.dev.to/medaimane" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a>
