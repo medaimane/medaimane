@@ -23,7 +23,7 @@ Let’s build something amazing. Connect & Let’s Work Together! 🎉
 src="https://img.shields.io/twitter/follow/med_aimane?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/medaimane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/medaimane?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.youtube.com/channel/UCya0QF4_lG-i6g5uzHnuMsg" target="_blank" rel="noreferrer"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCya0QF4_lG-i6g5uzHnuMsg?logo=youtube&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.youtube.com/channel/UCya0QF4_lG-i6g5uzHnuMsg" target="_blank" rel="noreferrer"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/@medaimane?logo=youtube&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
