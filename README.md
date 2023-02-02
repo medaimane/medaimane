@@ -1,5 +1,10 @@
-Software Consultant | Senior React Native Engineer
+Senior Software Engineer | Freelancer & Consultant
 --------------------------------------------------
+
+Entrepreneur
+A lifestyle of building innovative apps for social good.
+🤝 Connect & Let's Work Together!
+lnk.bio/medaimane
 
 I'm specializing in mobile and web development with vast expertise in working with international teams. 
 
