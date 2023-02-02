@@ -3,6 +3,8 @@ Senior Software Engineer | Freelancer & Consultant
 
 Let’s build something amazing. Connect & Let’s Work Together! 🎉
 
+[Hire me on UpWork](https://www.upwork.com/freelancers/medaimane)
+
 I'm specializing in mobile and web development with vast expertise in working with international teams. 
 
 🥇 I have 4+ years of experience collaborating on building cross-platform applications mainly for iOS, Android, and Web that have empowered people and businesses across many domains and tech stacks.
