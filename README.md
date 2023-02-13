@@ -23,8 +23,7 @@ Let’s build something amazing. Connect & Let’s Work Together! 🎉
 * 🤝  I'm open to collaborating on open-source projects as well as building new ideas
 * ⚡  Chill and Code | Tech lifestyle, I love nature and relaxing in front of the sea...
 
-<a href="https://github.com/medaimane" target="_blank" rel="noreferrer"><img 
-src="https://komarev.com/ghpvc/?username=medaimane"></a><a href="https://www.twitter.com/med_aimane" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/med_aimane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/med_aimane?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/medaimane" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/medaimane?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
