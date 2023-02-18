@@ -1,7 +1,7 @@
 Senior React Native Engineer | Software Consultant
 --------------------------------------------------
 
-I'm a Top Rated Plus Freelancer on UpWork with 100% Job Success Score, [Hire Me on Upwork](https://www.upwork.com/freelancers/medaimane).
+I'm a Top Rated Plus Freelancer on UpWork with 100% Job Success Score, [How I can help!](https://www.upwork.com/freelancers/medaimane).
 
 I'm specializing in mobile and web development with vast expertise in working with international teams.
 
