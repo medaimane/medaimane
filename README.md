@@ -7,17 +7,18 @@ Let’s build a unique, innovative & amazing app together!
 
 [How I can help?](https://www.upwork.com/freelancers/medaimane) ([Book a Consultation](https://www.upwork.com/services/consultation/development-it-mohamed-aimane-1617578903642484736))
 
-I'm specializing in mobile and web development with vast expertise in working with international teams.
+I'm a software consultant specializing in mobile and web development with vast expertise in working & collaborating with international teams.
 
-🥇 I have 5+ years of experience collaborating on building cross-platform applications mainly for iOS, Android, and Web that have empowered people and businesses across many domains and tech stacks.
+🥇 I have 5+ years of commercial experience in building cross-platform applications for iOS, Android, and Web, these apps have empowered people and businesses to achieve growth and great success across different industries, i.e: healthcare, entertainment, and education.
 
-👨‍💻 The journey consists of using APIs to create pixel-perfect and functional screens while assigning, following, and reviewing the work done by other members.
+👨‍💻 The journey includes adding new features and fixing issues, like using APIs to create pixel-perfect and functional screens. I am also responsible for assigning, following, and reviewing the work done by other members of the team.
 
-🎯 My strongest tech stack is the React Native and React ecosystem and I also have experience setting up CI/CD pipelines to automate the build and deployment process for web and mobile apps.
+🎯 My strongest tech stack is the React Native & React ecosystem with rich experience in setting up CI/CD pipelines & automate the test/build/deployment processes for mobile and web apps.
 
-🧩 I make sure to apply advanced software development principles like Clean Code, Clean Architecture, Test-Driven Development, and Design Patterns to improve in all aspects.
+🧩 I make sure to apply advanced software development principles like Design Patterns, Clean Code, Clean Architecture, and Test-Driven Development to improve in all aspects.
 
 🚀 Delivering elegant solutions and highly modular, scalable, clean, and well-tested code is always the goal.
+
 
 Connect & Let's Work Together!
 
