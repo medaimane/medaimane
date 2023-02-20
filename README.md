@@ -1,8 +1,6 @@
 Senior React Native Engineer | Software Consultant
 --------------------------------------------------
 
-A Top Rated Plus with 100% Job Success Score consultant on UpWork.
-
 Let’s build a unique, innovative & amazing app together! 
 
 [How I can help?](https://www.upwork.com/freelancers/medaimane) ([Book a Consultation](https://www.upwork.com/services/consultation/development-it-mohamed-aimane-1617578903642484736))
