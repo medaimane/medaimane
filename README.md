@@ -1,9 +1,9 @@
 Senior React Native Engineer | Software Consultant
 --------------------------------------------------
 
-Let’s build a unique, innovative & amazing app together! 
+Do you want to bring your app idea to life?
 
-[How I can help?](https://www.upwork.com/freelancers/medaimane) ([Book a Consultation](https://www.upwork.com/services/consultation/development-it-mohamed-aimane-1617578903642484736))
+[Let me help!](https://www.upwork.com/freelancers/medaimane) ([Book a Consultation](https://www.upwork.com/services/consultation/development-it-mohamed-aimane-1617578903642484736))
 
 I'm a software consultant specializing in mobile and web development with vast expertise in working & collaborating with international teams.
 
@@ -17,7 +17,7 @@ I'm a software consultant specializing in mobile and web development with vast e
 
 🚀 Delivering elegant solutions and highly modular, scalable, clean, and well-tested code is always the goal.
 
-
+Let’s build something unique, innovative & amazing! 
 Connect & Let's Work Together!
 
 ### Skills
