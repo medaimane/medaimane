@@ -1,5 +1,5 @@
-Senior React Native Engineer | Software Consultant
---------------------------------------------------
+Senior React Native Engineer | Software Consultant | Freelancer @UpWork
+-----------------------------------------------------------------------
 
 Do you want to bring your app idea to life?
 
@@ -7,17 +7,17 @@ Do you want to bring your app idea to life?
 
 I'm a software consultant specializing in mobile and web development with vast expertise in working & collaborating with international teams.
 
-🥇 I have 5+ years of commercial experience in building cross-platform applications for iOS, Android, and Web, these apps have empowered people and businesses to achieve growth and great success across different industries, i.e: healthcare, entertainment, and education.
+I have 5+ years of commercial experience in building cross-platform applications for iOS, Android, and Web, these apps have empowered people and businesses to achieve growth and great success across different industries, i.e: healthcare, entertainment, and education.
 
-👨‍💻 The journey includes adding new features, debugging, and fixing issues, building exceptional user experiences by creating pixel-perfect and functional screens. I am also responsible for assigning, following, and reviewing the work done by other members of the team.
+The journey includes adding new features, debugging, and fixing issues, building exceptional user experiences by creating pixel-perfect and functional screens. I am also responsible for assigning, following, and reviewing the work done by other members of the team.
 
-🎯 My strongest tech stack is the React Native & React ecosystem with rich experience in setting up CI/CD pipelines & automate the test/build/deployment processes for mobile and web apps.
+My strongest tech stack is the React Native & React ecosystem with rich experience in setting up CI/CD pipelines & automate the test/build/deployment processes for mobile and web apps.
 
-🧩 I make sure to apply advanced software development principles like Design Patterns, Clean Code, Clean Architecture, and Test-Driven Development to improve in all aspects.
+I make sure to apply advanced software development principles like Design Patterns, Clean Code, Clean Architecture, and Test-Driven Development to improve in all aspects.
 
-🚀 Delivering elegant solutions and highly modular, scalable, clean, and well-tested code is always the goal.
+Delivering elegant solutions and highly modular, scalable, clean, and well-tested code is always the goal.
 
-Let’s build something unique, innovative & amazing! 
+Let’s build something unique, innovative & amazing!
 Connect & Let's Work Together!
 
 ### Skills
