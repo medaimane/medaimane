@@ -20,7 +20,7 @@ Delivering elegant solutions and highly modular, scalable, clean, and well-teste
 Let’s build something unique, innovative & amazing!
 Connect & Let's Work Together!
 
-### Skills
+### Stack of Technologies
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="22" height="22" alt="Typescript" /></a>
@@ -42,7 +42,7 @@ Connect & Let's Work Together!
 </p>
 
 
-### Socials
+### Let's connect
 
 <p align="left">
   <a href="https://www.dev.to/medaimane" target="_blank" rel="noreferrer">
