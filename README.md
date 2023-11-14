@@ -1,4 +1,4 @@
-👨‍💻 Senior React Native Engineer | Freelancer Software Consultant @UpWork
+👨‍💻 React Native Engineer | Software Consultant | Freelancer at @UpWork
 -----------------------------------------------------------------------
 
 Do you want to bring your app idea to life? [Let me help!](https://www.upwork.com/freelancers/medaimane) ([Book a Consultation](https://www.upwork.com/services/consultation/development-it-mohamed-aimane-1617578903642484736))
