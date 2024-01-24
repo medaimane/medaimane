@@ -36,28 +36,8 @@ Proven success over the past 6 years of experience in collaborating with remote 
 
 I deliver elegant solutions - highly modular, scalable, clean, and well-tested code that guarantees exceptional user experiences and engagement matching speed with looks, quality, and performance.
 
-🚀 Ready to build your unique, innovative, and amazing app?
+🚀 Ready to build your unique, innovative, and amazing app?<br/>
 Let's connect and bring your vision to life! 🎉🎉
-
-### Connect & Let's Work Together!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/med-aimane-skhairi/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.twitter.com/med_aimane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/medaimane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.dev.to/medaimane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.youtube.com/@medaimane" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-  </a>
-</p>
 
 ### Support Me
 
