@@ -1,7 +1,7 @@
 👋 Hi, I'm Mohamed Aimane.
 ----------------------------------
 
-### Senior Software Engineer obsessed with AI, ML, Blockchain Apps & Tech Innovation | App Developer • React Native • Expo • TypeScript | Mobile & Web Consultant • Top (3%) Rated Plus Freelancer at @Upwork
+### Senior Software Engineer obsessed with AI, ML, Blockchain & Tech Innovation | 👨‍💻 App Developer • React Native • Expo • TypeScript | 🤝 Mobile & Web Consultant • 🥇 Top Rated Plus Freelancer at @Upwork
 
 Thanks for stopping by my profile!
 
