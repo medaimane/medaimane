@@ -1,46 +1,43 @@
-👋 Hi, I'm Mohamed Aimane.
-----------------------------------
+# 👋 Hi, I'm Mohamed Aimane.
 
-### Senior Software Engineer obsessed with AI, ML, Blockchain & Tech Innovation | 👨‍💻 App Developer • React Native • Expo • TypeScript | 🤝 Mobile & Web Consultant • 🥇 Top Rated Plus Freelancer at @Upwork
+## 👨‍💻 Senior Software Engineer | React Native Expert | Top Rated Plus on Upwork
 
-Thanks for stopping by my profile!
+_Thanks for visiting my profile! I specialize in turning innovative app visions into reality._
 
-‣ For the TL;DR peeps:
+### TL;DR:
 
-I help turn innovative app visions into reality. As a Senior Software Engineer, I specialize in React Native app development, crafting exceptional user experiences, and seamlessly blending speed with looks, quality, and performance.
+- 🌟 Top Rated Plus software engineer consultant on Upwork.
+- 🚀 6+ years specializing in React Native, Expo, and TypeScript.
+- 💡 Proven track record with 5-star reviews from top clients.
 
-‣ The longer version:
+### What I Bring:
 
-🌟 5-Star Reviews on Upwork:
+- 🏆 Elevate your team as a Tech Lead or Senior Developer.
+- 🌐 International collaboration experience in Healthcare, Travel, Art, Entertainment, and Education.
+- 🛠 Core Tech Stack: React Native, Expo with TypeScript.
+- 🚀 Expert in integrating AI, Cloud solutions, and third-party platforms.
+- 🧪 Follow advanced development principles: Design Patterns, Clean Code, Clean Architecture.
+- 🔄 Experienced in project management and agile methodologies (Kanban and Scrum).
+- 🤝 Strong sense of team leading, and technical decision-making.
+- 🛤️ Proficient in MVP launch and product development roadmapping.
+- 💡 Creative and critical thinking with excellent communication skills.
 
-- ⭐️⭐️⭐️⭐️⭐️ "Mohamed is a very talented and reliable developer - we are lucky to work with him. He is very thoughtful and thorough and someone who will think of the bigger picture. He is also pleasant to work with and a great communicator. Thank you, Mohamed!" - Alan P, FluentU’s Founder.
+### Let's Build Something Amazing:
 
-- ⭐️⭐️⭐️⭐️⭐️ "It was great to work with Mohamed on our project. He is strong React Native developer, good communicator and reliable team member. We will hire him again" - Steven F, LyfShort's Founder.
+- 🚀 Crafted, pixel-perfect UIs for exceptional user experiences.
+- 🌐 Worked with OpenAI, Google Services, Firebase, and more.
+- 🛠 Set up CI/CD pipelines for seamless deployment.
+- 🧪 Committed to top-notch quality: Modular, scalable, clean, and well-tested code.
 
-💡 Do you want to turn your app idea into reality?
-
-[Let's make it happen!](https://www.upwork.com/freelancers/medaimane) I'm a Top Rated Plus freelancer (top 3%) on Upwork, specializing in Mobile and Web App Development. With a consistent record of 5-star reviews and glowing feedback (see above), I bring unparalleled expertise to your project and team.
-
-👨‍💻 Elevate your team with me as a Tech Lead or a Senior Developer:
-
-Proven success over the past 6 years of experience in collaborating with remote and international teams, contributing to diverse projects across Healthcare, Travel, Art, Entertainment, and Education.
-
-- The mission goes beyond feature implementation and issue resolution; it's about elevating the user experience through crafted, pixel-perfect, and functional UIs/screens.
-- In leadership roles, I take pride in technical decisions, as well as in collaborating, guiding, and reviewing the work of team members to ensure a standard of excellence that sets our projects apart.
-
-- Core Tech Stack: React Native, Expo with TypeScript.
-- Extensive experience integrating AI, Cloud solutions, and third-party platforms like OpenAI, Google Services, Firebase, and more...
-- Coupled with automation practices and setting up CI/CD pipelines for seamless deployment of both mobile and web apps.
-
-- I adhere to advanced software development principles: Design Patterns, Clean Code, Clean Architecture, and Test-Driven Development to ensure top-notch quality.
-
-I deliver elegant solutions - highly modular, scalable, clean, and well-tested code that guarantees exceptional user experiences and engagement matching speed with looks, quality, and performance.
-
-🚀 Ready to build your unique, innovative, and amazing app?<br/>
-Let's connect and bring your vision to life! 🎉🎉
-
-### Support Me
+### Support Me:
 
 <a href="https://www.buymeacoffee.com/medaimane">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130" />
 </a>
+
+### Ready to Collaborate?
+
+Let's connect and bring your vision to life! 🎉🎉
+
+[Upwork Profile](https://www.upwork.com/freelancers/medaimane)
+[More Links](https://lnk.bio/medaimane)
