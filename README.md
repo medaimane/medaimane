@@ -39,5 +39,4 @@ _Thanks for visiting my profile! I specialize in turning innovative app visions 
 
 Let's connect and bring your vision to life! 🎉🎉
 
-[Upwork Profile](https://www.upwork.com/freelancers/medaimane)
-[More Links](https://lnk.bio/medaimane)
+[Upwork Profile](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
