@@ -31,7 +31,7 @@ _Thanks for visiting my profile! I specialize in turning innovative app visions 
 
 ### Support Me:
 
-<a href="https://www.buymeacoffee.com/medaimane">
+<a href="https://www.buymeacoffee.com/medaimane" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130" />
 </a>
 
@@ -39,4 +39,5 @@ _Thanks for visiting my profile! I specialize in turning innovative app visions 
 
 Let's connect and bring your vision to life! 🎉🎉
 
-[Upwork Profile](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
+<a href="https://www.upwork.com/freelancers/medaimane" target="_blank">Upwork Profile</a> | <a href="https://lnk.bio/medaimane" target="_blank">More Links</a>
+
