@@ -43,7 +43,7 @@ _I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @Reactjs, 
 
 Connect and let's bring your vision to life!👇
 
-<a href="https://lnk.bio/medaimane" target="_blank">Book A Free Call</a> | <a href="https://www.upwork.com/freelancers/medaimane" target="_blank">Hire Me On Upwork</a>
+<a href="https://www.upwork.com/freelancers/medaimane" target="_blank">Hire Me On Upwork</a> | <a href="https://lnk.bio/medaimane" target="_blank">More Links</a>
 
 <!--
 ### Github stats
