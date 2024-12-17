@@ -1,4 +1,4 @@
-## Mohamed Aimane | The React Native & Expo Guy
+## Mohamed Aimane | React Native & Expo Apps Expert | Senior Software Engineer
 
 ### 👨‍💻 Senior Software Engineer | Remote Freelancer, Top 3% of Talent @Upwork🌟
 
