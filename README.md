@@ -4,7 +4,7 @@
 
 _Thanks for visiting my profile!_
 
-_I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @Reactjs, @ReactNative & @Expo_
+_I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs_
 
 #### TL;DR:
 
@@ -32,11 +32,36 @@ _I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @Reactjs, 
 - 🧪 Committed to top-notch quality: Modular, scalable, clean, and well-tested code.
 
 <!--
-#### Support Me:
+#### Featured Projects:
 
-<a href="https://www.buymeacoffee.com/medaimane" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/medaimane/healthcare-app">
+        <img src="https://via.placeholder.com/150" alt="Healthcare App Cover" width="150" height="150">
+        <br>
+        <strong>Healthcare App</strong>
+      </a>
+      <p>Developed a comprehensive mobile app for patient management and telemedicine.</p>
+    </td>
+    <td>
+      <a href="https://github.com/medaimane/travel-companion">
+        <img src="https://via.placeholder.com/150" alt="Travel Companion Cover" width="150" height="150">
+        <br>
+        <strong>Travel Companion</strong>
+      </a>
+      <p>Created an app that assists travelers with itinerary planning and real-time updates.</p>
+    </td>
+    <td>
+      <a href="https://github.com/medaimane/art-gallery-app">
+        <img src="https://via.placeholder.com/150" alt="Art Gallery App Cover" width="150" height="150">
+        <br>
+        <strong>Art Gallery App</strong>
+      </a>
+      <p>Designed a virtual gallery showcasing artworks with augmented reality integration.</p>
+    </td>
+  </tr>
+</table>
 -->
 
 ### Thinking of a project?🔥
@@ -45,8 +70,14 @@ Connect and let's bring your vision to life!👇
 
 <a href="https://www.upwork.com/freelancers/medaimane" target="_blank">Hire Me On Upwork</a> | <a href="https://lnk.bio/medaimane" target="_blank">More Links</a>
 
-<!--
+### Support Me:
+
+<a href="https://www.buymeacoffee.com/medaimane" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130" />
+</a>
+
+---
+
 ### Github stats
 
 ![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=medaimane&count_private=true&show_icons=true&theme=radical)
--->
