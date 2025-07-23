@@ -1,4 +1,6 @@
-## 👨‍💻 React Native & Expo Expert | Senior Software Engineer Consultant | Freelancer, Top 3% of Talent @Upwork🌟
+## 👨‍💻 React Native & Expo Expert | Senior Software Engineer
+
+### Consultant/Freelancer, Top 3% of Talent @Upwork🌟
 
 _Thanks for visiting my profile!_
 
