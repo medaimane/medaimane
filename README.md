@@ -1,6 +1,6 @@
 ## 👨‍💻 Senior Software Engineer / Expo & React Native Cross-Platform Apps
 
-### Consultant/Freelancer, Top 3% of Talent @Upwork🌟
+### Software Consultant/Freelancer, Top 3% of Talent @Upwork🌟
 
 _Thanks for visiting my profile!_
 
@@ -26,6 +26,7 @@ _I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNati
 
 #### Let's Build Something Amazing:
 
+- 📱 Arcitect complex mobile & frontend apps.
 - 🚀 Crafted, pixel-perfect UIs for exceptional user experiences.
 - 🌐 Worked with OpenAI, Google Services, Firebase, and more.
 - 🛠 Set up CI/CD pipelines for seamless deployment.
@@ -66,7 +67,7 @@ _I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNati
 
 ### Thinking of a project?🔥
 
-Connect and let's bring your vision to life!👇
+Let's connect and bring your vision to reality!
 
 <a href="https://www.upwork.com/freelancers/medaimane" target="_blank">Hire Me On Upwork</a> | <a href="https://lnk.bio/medaimane" target="_blank">More Links</a>
 
@@ -76,9 +77,10 @@ Connect and let's bring your vision to life!👇
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130" />
 </a>
 
+<!--
+
 ---
 
-<!--
 ### Github stats
 
 ![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=medaimane&count_private=true&show_icons=true&theme=radical)
