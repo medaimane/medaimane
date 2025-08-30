@@ -1,15 +1,15 @@
-## 👨‍💻 Senior Software Engineer / Expo & React Native Cross-Platform Apps
+## 👨‍💻 Senior Software Engineer | React Native & Expo Cross-Platform Apps
 
 ### Software Consultant/Freelancer, Top 3% of Talent @Upwork🌟
 
 _Thanks for visiting my profile!_
 
-_I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs_
+_I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs, @Supabase_
 
 #### TL;DR:
 
 - 🌟 Top Rated Plus with a 100% Job Success Freelancer on Upwork.
-- 🚀 7+ years specializing in React Native & Expo ecosystem.
+- 🚀 7+ years specializing in React/React Native & Expo ecosystem.
 - 💡 Proven track record with 5-star reviews from top clients.
 
 #### What I Bring:
@@ -31,39 +31,6 @@ _I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNati
 - 🌐 Worked with OpenAI, Google Services, Firebase, and more.
 - 🛠 Set up CI/CD pipelines for seamless deployment.
 - 🧪 Committed to top-notch quality: Modular, scalable, clean, and well-tested code.
-
-<!--
-#### Featured Projects:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/medaimane/healthcare-app">
-        <img src="https://via.placeholder.com/150" alt="Healthcare App Cover" width="150" height="150">
-        <br>
-        <strong>Healthcare App</strong>
-      </a>
-      <p>Developed a comprehensive mobile app for patient management and telemedicine.</p>
-    </td>
-    <td>
-      <a href="https://github.com/medaimane/travel-companion">
-        <img src="https://via.placeholder.com/150" alt="Travel Companion Cover" width="150" height="150">
-        <br>
-        <strong>Travel Companion</strong>
-      </a>
-      <p>Created an app that assists travelers with itinerary planning and real-time updates.</p>
-    </td>
-    <td>
-      <a href="https://github.com/medaimane/art-gallery-app">
-        <img src="https://via.placeholder.com/150" alt="Art Gallery App Cover" width="150" height="150">
-        <br>
-        <strong>Art Gallery App</strong>
-      </a>
-      <p>Designed a virtual gallery showcasing artworks with augmented reality integration.</p>
-    </td>
-  </tr>
-</table>
--->
 
 ### Thinking of a project?🔥
 
