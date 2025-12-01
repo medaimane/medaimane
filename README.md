@@ -1,10 +1,10 @@
-## 👨‍💻 Senior Software Engineer | React Native & Expo Cross-Platform Apps
+## 👨‍💻 Expo React Native Cross-Platform Apps | Senior Software Engineer
 
-### Software Consultant/Freelancer, Top 3% of Talent @Upwork🌟
+### Software Consultant/Freelancer, Top 3% of Talent on @Upwork 🌟
 
 _Thanks for visiting my profile!_
 
-_I help Founders/Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs, @Supabase_
+_I help Founders and Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs, @Supabase/@Firebase_
 
 #### TL;DR:
 
