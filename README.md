@@ -1,4 +1,4 @@
-## 👨‍💻 Expo React Native Cross-Platform Apps | Senior Software Engineer
+## 👨‍💻 Expo React Native Apps / Senior Software Engineer
 
 ### Software Consultant/Freelancer, Top 3% of Talent on @Upwork 🌟
 
