@@ -1,8 +1,6 @@
 ## 👨‍💻 Expo React Native Apps / Senior Software Engineer
 
-### Freelancer Software Consultant, Top 3% of Talent on @Upwork 🌟
-
-_Thanks for visiting my profile!_
+### Top 3% of Talented Freelancers on @Upwork 🌟
 
 _I help Founders and Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs, @Supabase/@Firebase_
 
@@ -43,6 +41,8 @@ Let's connect & bring your vision to reality!
 <a href="https://www.buymeacoffee.com/medaimane" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="130" />
 </a>
+
+_Thanks for visiting my profile!_
 
 <!--
 
