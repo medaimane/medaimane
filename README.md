@@ -2,7 +2,7 @@
 
 ### Top 3% of Talented Freelancers on @Upwork 🌟
 
-_I help Founders and Startups build Mobile Apps & SaaS/AaaS Products with @ReactNative & @Expo,  @Reactjs & @Nextjs, @Supabase/@Firebase_
+_I help Founders and Startups build Mobile Apps & SaaS/AaaS Products with @Expo @ReactNative, @Nextjs & @Supabase/@Firebase_
 
 #### TL;DR:
 
