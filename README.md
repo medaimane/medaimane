@@ -54,6 +54,6 @@ CI/CD (Expo EAS, Bitrise, GitHub Actions)
 
 ---
 
-## 💡 Ready to build something great?
+### 💡 Ready to build something great?
 
 If you're building a mobile product and need a senior engineer to help you ship fast and scale correctly, feel free to connect.
