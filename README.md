@@ -4,8 +4,6 @@ Architecting, building, and scaling cross-platform mobile applications using Rea
 
 I work with startups, founders, and product teams to turn ideas into production-ready mobile products shipped to real users.
 
----
-
 ### 🚀 What I Do
 
 - Cross-platform mobile apps (iOS, Android & Web) with React Native & Expo  
@@ -14,8 +12,6 @@ I work with startups, founders, and product teams to turn ideas into production-
 - Scalable mobile architectures and system design  
 - App modernization, refactoring, and performance optimization  
 - Production deployments (App Store / Play Store / Expo EAS / Web)
-
----
 
 ### 🧠 Engineering Approach
 
@@ -28,15 +24,11 @@ I focus on building systems that are:
 
 I combine startup execution speed with senior engineering discipline to ensure products ship fast without accumulating unnecessary technical debt.
 
----
-
 ### 🔥 Tech Stack
 
 React Native • Expo • TypeScript • Next.js • Node.js  
 Supabase • Firebase • AWS • OpenAI APIs  
 CI/CD (Expo EAS, Bitrise, GitHub Actions)
-
----
 
 ### 🤝 Experience Highlights
 
@@ -46,14 +38,10 @@ CI/CD (Expo EAS, Bitrise, GitHub Actions)
 - Integrated AI systems into real-world mobile applications  
 - Extensive experience working directly with founders and product teams  
 
----
+### 💡 Ready to build something great?
+
+If you're building a mobile product and need a senior engineer to help you ship fast and scale correctly, feel free to connect.
 
 ### 🔗 Links
 
 - [Upwork](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
-
----
-
-### 💡 Ready to build something great?
-
-If you're building a mobile product and need a senior engineer to help you ship fast and scale correctly, feel free to connect.
