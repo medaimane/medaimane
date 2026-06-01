@@ -6,7 +6,7 @@ I work with startups, founders, and product teams to turn ideas into production-
 
 ---
 
-## 🚀 What I Do
+### 🚀 What I Do
 
 - Cross-platform mobile apps (iOS, Android & Web) with React Native & Expo  
 - AI-powered features, agents, and automation workflows  
@@ -17,7 +17,7 @@ I work with startups, founders, and product teams to turn ideas into production-
 
 ---
 
-## 🧠 Engineering Approach
+### 🧠 Engineering Approach
 
 I focus on building systems that are:
 
@@ -30,7 +30,7 @@ I combine startup execution speed with senior engineering discipline to ensure p
 
 ---
 
-## 🔥 Tech Stack
+### 🔥 Tech Stack
 
 React Native • Expo • TypeScript • Next.js • Node.js  
 Supabase • Firebase • AWS • OpenAI APIs  
@@ -38,7 +38,7 @@ CI/CD (Expo EAS, Bitrise, GitHub Actions)
 
 ---
 
-## 🤝 Experience Highlights
+### 🤝 Experience Highlights
 
 - 8+ years in mobile and frontend engineering  
 - Built products across healthcare, travel, education, and entertainment industries  
@@ -48,7 +48,7 @@ CI/CD (Expo EAS, Bitrise, GitHub Actions)
 
 ---
 
-## 🔗 Links
+### 🔗 Links
 
 - [Upwork](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
 
