@@ -42,6 +42,4 @@ CI/CD (Expo EAS, Bitrise, GitHub Actions)
 
 If you're building a mobile product and need a senior engineer to help you ship fast and scale correctly, feel free to connect.
 
-### 🔗 Links
-
-- [Upwork](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
+[Upwork](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
