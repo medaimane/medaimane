@@ -6,7 +6,15 @@ I help startups, founders, and product teams architect, build, and scale cross-p
 
 With 8+ years of experience, I combine senior engineering, product thinking, and modern AI-native engineering workflows to build production-ready applications for iOS, Android, and Web.
 
-I don't just build apps; I help build better products.
+I don't just build apps; I help build products.
+
+### 🏛️ Principles
+
+- Products over features
+- Systems over hacks
+- Clarity over complexity
+- Quality without sacrificing speed
+- Continuous improvement over perfection
 
 ### 🚀 What I Build
 
