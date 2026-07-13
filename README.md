@@ -1,45 +1,67 @@
-## 👨‍💻 Lead Mobile Engineer | React Native, Expo & AI
+## 👋 Hi, I'm Mohamed Aimane
 
-Architecting, building, and scaling cross-platform mobile applications using React Native, Expo, and modern AI-driven architectures.
+## Lead Mobile Engineer • React Native, Expo & AI
 
-I work with startups, founders, and product teams to turn ideas into production-ready mobile products shipped to real users.
+I help startups, founders, and product teams architect, build, and scale cross-platform products, from idea → launch.
 
-### 🚀 What I Do
+With 8+ years of experience, I combine senior engineering, product thinking, and modern AI-native engineering workflows to build production-ready applications for iOS, Android, and Web.
 
-- Cross-platform mobile apps (iOS, Android & Web) with React Native & Expo  
-- AI-powered features, agents, and automation workflows  
-- MVP development and rapid product validation  
-- Scalable mobile architectures and system design  
-- App modernization, refactoring, and performance optimization  
-- Production deployments (App Store / Play Store / Expo EAS / Web)
+I don't just build apps; I help build better products.
 
-### 🧠 Engineering Approach
+### 🚀 What I Build
 
-I focus on building systems that are:
+- 📱 Cross-platform mobile products with React Native & Expo
+- 🤖 AI-enabled products, agents, and intelligent workflows
+- ⚡ MVPs and rapid product validation
+- 🏗️ Scalable architectures and engineering systems
+- 🔄 Modernization, refactoring, and performance optimization
+- 🚀 Production releases (App Store, Play Store & Web)
 
-- Scalable from day one  
-- Built with clean architecture principles  
-- Testable and maintainable (TDD mindset)  
-- Designed for fast iteration and real product feedback loops  
+### 🧠 Engineering Philosophy
 
-I combine startup execution speed with senior engineering discipline to ensure products ship fast without accumulating unnecessary technical debt.
+I believe successful products are built through:
 
-### 🔥 Tech Stack
+- Senior engineering
+- Product thinking
+- Modern AI-native workflows
+- Clean architecture
+- Fast iteration
+- Long-term maintainability
 
-React Native • Expo • TypeScript • Next.js • Node.js  
-Supabase • Firebase • AWS • OpenAI APIs  
-CI/CD (Expo EAS, Bitrise, GitHub Actions)
+My goal is simple:
 
-### 🤝 Experience Highlights
+Build products that ship faster, scale better, and remain easy to evolve.
 
-- 8+ years in mobile and frontend engineering  
-- Built products across healthcare, travel, education, and entertainment industries  
-- Led full product lifecycle development: MVP → scale → production  
-- Integrated AI systems into real-world mobile applications  
-- Extensive experience working directly with founders and product teams  
+### ⚙️ Core Technologies
 
-### 💡 Ready to build something great?
+#### Mobile
 
-If you're building a mobile product and need a senior engineer to help you ship fast and scale correctly, feel free to connect.
+React Native • Expo • TypeScript • React • Next.js
 
-[Upwork](https://www.upwork.com/freelancers/medaimane) | [More Links](https://lnk.bio/medaimane)
+#### Backend
+
+Node.js • Supabase • Firebase • PostgreSQL • GraphQL
+
+#### AI
+
+OpenAI • Claude • Gemini • AI Agents • RAG • Automation
+
+#### Engineering
+
+Clean Architecture • DDD • SOLID • TDD • CI/CD • GitHub Actions • Expo EAS
+
+### 🌍 Experience
+
+- 🚀 8+ years building mobile products
+- ⭐ Top Rated Plus (Top 3% on Upwork)
+- 📱 Production apps shipped to the App Store & Play Store
+- 🌎 Experience across Healthcare, Education, Travel, Entertainment, Social, AI & SaaS
+- 🤝 Worked directly with startups, founders, and product teams worldwide
+
+### 📫 Let's Connect
+
+If you're building a product and need an experienced engineering partner, I'd be happy to connect.
+
+<!--- 🌐 https://-->
+- 💼 https://www.upwork.com/freelancers/medaimane
+- 🔗 https://lnk.bio/medaimane
