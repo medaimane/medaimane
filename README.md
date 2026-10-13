@@ -1,3 +1,5 @@
+![Mohamed Aimane — Senior Software Engineer](./public/assets/personal-brand-cover.png)
+
 # 👋 Hi, I'm Mohamed Aimane
 
 ### Senior Software Engineer · Mobile & Web
