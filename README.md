@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mohamed Aimane
 
-## Senior Software Engineer • Mobile & Web • React Native & Expo, Native iOS & Android, Nextjs & AI
+## Senior Software Engineer • Mobile & Web
 
 I help startups, founders, and product teams architect, build, and scale cross-platform products, from idea → launch.
 
