@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mohamed Aimane
 
-## Lead Mobile Engineer • React Native, Expo & AI
+## Senior Software Engineer • Mobile & Web • React Native & Expo, Native iOS & Android, Nextjs & AI
 
 I help startups, founders, and product teams architect, build, and scale cross-platform products, from idea → launch.
 
